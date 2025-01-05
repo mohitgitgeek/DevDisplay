@@ -1,0 +1,15 @@
+{
+  "name": "Mohit",
+  "location": "Chennai , Tamil Nadu",
+  "bio": "Second year college student majoring in Artificial Intelligence , looking for internships in relevant domain.",
+  "avatar": "https://github.com/your-github-username.png",
+  "portfolio": "https://github.com/mohitgitgeek",
+  "skills": ["Python", "React", "Flask","Java","HTML","CSS","Content Curation","ML"],
+  "social": {
+    "GitHub": "https://github.com/mohitgitgeek",
+    "Twitter": "",
+    "LinkedIn": "https://www.linkedin.com/in/mohit-vuyala",
+    "Instagram": "https://www.instagram.com/@mohitvuyala2021",
+    "Email": "mohitvuyala@gmail.com"
+  }
+}
